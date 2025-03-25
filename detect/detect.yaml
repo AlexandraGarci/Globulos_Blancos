@@ -1,0 +1,9 @@
+path:
+train: images/train
+val: images/val
+test: images/test
+
+#Classes
+names:
+  0: neutrophil
+  1: lymphocyte
